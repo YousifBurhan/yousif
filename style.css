@@ -1,0 +1,67 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  background: #dddd;
+}
+header {
+  color: #fff;    
+}
+
+.top-header a {
+  color: #cd1111;
+  text-decoration: none;
+  font-size: 2.5em;
+  font-weigth:800;
+  font-bold: 200px;
+  padding-right:40px;
+}
+
+.top-header a:hover{
+  color: #fff
+  
+ d  
+}
+
+#burhan{
+  width:250px; 
+  height:200px;
+    
+}
+
+.img-head {
+  background-color: #ffff;
+  
+}
+
+.background {
+  background: url(https://images.unsplash.com/photo-1619597455322-4fbbd820250a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80)
+    
+}
+
+p {
+  color:  #fff;
+  font-bold: 1000px;
+  font-size: 0.9em;
+}
+
+#yousif{
+  color:white;
+  background-color: 
+}
+#text-area2 {
+  border-radius: 10px;
+ }
+
+h2 {
+  color:red;
+}
